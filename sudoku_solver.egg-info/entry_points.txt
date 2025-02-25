@@ -1,0 +1,3 @@
+[console_scripts]
+sudoku-solver = src.sudoku_solver:main
+
