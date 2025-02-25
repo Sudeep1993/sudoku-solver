@@ -13,7 +13,7 @@ A Python application that automatically captures, processes, and solves Sudoku p
 
 ## Preview
 
-![Sudoku Solver Screenshot]([https://github.com/yourusername/sudoku-solver/raw/main/docs/images/ScreenRecord.mp4](https://github.com/Sudeep1993/sudoku-solver/blob/main/docs/images/ScreenRecord))
+![Sudoku Solver Screenshot]([https://github.com/Sudeep1993/sudoku-solver/raw/main/docs/images/ScreenRecord.mp4])
 
 ## Installation
 
